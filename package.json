@@ -1,0 +1,27 @@
+{
+  "name": "cat-shelter-worskshop",
+  "version": "1.0.0",
+  "description": "Cat Shelter workshop SoftUni",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rstanchevv/cat-shelter-worskshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rstanchevv/cat-shelter-worskshop/issues"
+  },
+  "homepage": "https://github.com/rstanchevv/cat-shelter-worskshop#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2",
+    "nodemon": "^3.0.1",
+    "uniqid": "^5.4.0",
+    "uniqueid": "^1.0.0"
+  }
+}
